@@ -1,4 +1,6 @@
-# app
+# Vue Js Phantom Wallet Connection 
+
+#Solana Blockchain with VUE JS
 
 ## Project setup
 ```
